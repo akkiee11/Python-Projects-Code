@@ -1,0 +1,203 @@
+markers=[
+    {
+        "name": "A 1 400001 M.R.A. Police Quarters,M.R.A. Road,Fort",
+        "lat": "18.9459379",
+        "lng": "72.8352403"
+    },
+    {
+        "name": "A 2 400001 Dcb Building,M.R.A. Marg,Near Crowfard Market,Fort",
+        "lat": "18.9483221",
+        "lng": "72.8356609"
+    },
+    {
+        "name": "A 3 400005 Ganeshmurthi Nagar Part No 2,Captain Prakash Pethe Marg,Colaba Congested Area",
+        "lat": "18.9179494",
+        "lng": "72.8250608"
+    },
+    {
+        "name": "A 4 400005 Ganeshmurthi Nagar Part No 1,3,Captain Prakash Pethe Marg,Colaba Congested Area",
+        "lat": "18.9180166",
+        "lng": "72.8251581"
+    },
+    {
+        "name": "A 5 400005 Shivshakti Nagar,Free Press Journal Road,Nariman Point,Colaba Congested Area",
+        "lat": "18.924775",
+        "lng": "72.8251447"
+    },
+    {
+        "name": "A 6 400005 Sunder Nagar,Indumati Sakrikar Marg,Near Colaba Market,Colaba Congested Area",
+        "lat": "18.9197182",
+        "lng": "72.8298531"
+    },
+    {
+        "name": "A 7 400005 Geeta Nagar,Dr Homi Bhabha Road,Near Navy Nagar,Colaba Congested Area",
+        "lat": "18.9072667",
+        "lng": "72.8094898"
+    },
+    {
+        "name": "A 8 400005 Ambedkar Nagar,Capt. Prakash Pethe Marg,Colaba Congested Area",
+        "lat": "18.9134577",
+        "lng": "72.8208046"
+    },
+    {
+        "name": "A 9 400005 Azad Nagari,Lala Nigam Road,Colaba Congested Area",
+        "lat": "18.9171013",
+        "lng": "72.8288065"
+    },
+    {
+        "name": "A 10 400005 Maker Tower,G.D.Somani Road,Colaba",
+        "lat": "18.9167238",
+        "lng": "72.8185535"
+    },
+    {
+        "name": "A 11 400005 Machchimar Nagar No.5,Capt. Prakash Pethe Marg,Colaba Congested Area",
+        "lat": "18.9174726",
+        "lng": "72.8248492"
+    },
+    {
+        "name": "A 12 400005 Darya Nagari,Near Jamshedji Bunder,Colaba Congested Area",
+        "lat": "18.9155998",
+        "lng": "72.8302691"
+    },
+    {
+        "name": "A 13 400005 Srpf Police Quarters,,Colaba",
+        "lat": "18.9103689",
+        "lng": "72.8197581"
+    },
+    {
+        "name": "A 14 400005 Chotu Terrace,Near Colab Fire Station,Colaba",
+        "lat": "18.9154742",
+        "lng": "72.82607949999999"
+    },
+    {
+        "name": "A 15 400020 Bell Heaven Building Servant Quarters,Near Bombay Hospital,New Marine Lines",
+        "lat": "18.9397534",
+        "lng": "72.8284255"
+    },
+    {
+        "name": "B 16 400003 Noble Tower,Zakeria Masjid Street,Near Hotel Hayat,Mandvi",
+        "lat": "18.9554088",
+        "lng": "72.8347697"
+    },
+    {
+        "name": "B 17 400003 Parveen Manzil,Dontaad Street,Near Zakeria Masjid,Pydhonie",
+        "lat": "18.9541012",
+        "lng": "72.83467209999999"
+    },
+    {
+        "name": "B 18 400003 Hazira Masion,Samuel Street,Opp. Hotel Al-Rehmaniya,Masjid Railway Station (W)",
+        "lat": "18.9518278",
+        "lng": "72.8382898"
+    },
+    {
+        "name": "B 19 400003 Parsi Chawl,Nagdevi Street,Opp. Crawford Market, Near Vip Bags Showroom,Crowford Market Congested Area",
+        "lat": "18.9473731",
+        "lng": "72.8337761"
+    },
+    {
+        "name": "B 20 400003 Vanjira Building,Memonwada Road,Near Minara Masjid,Dongri",
+        "lat": "18.9602105",
+        "lng": "72.8305489"
+    }
+][
+    {
+        "name": "A 1 400001 M.R.A. Police Quarters,M.R.A. Road,Fort",
+        "lat": "18.9459379",
+        "lng": "72.8352403"
+    },
+    {
+        "name": "A 2 400001 Dcb Building,M.R.A. Marg,Near Crowfard Market,Fort",
+        "lat": "18.9483221",
+        "lng": "72.8356609"
+    },
+    {
+        "name": "A 3 400005 Ganeshmurthi Nagar Part No 2,Captain Prakash Pethe Marg,Colaba Congested Area",
+        "lat": "18.9179494",
+        "lng": "72.8250608"
+    },
+    {
+        "name": "A 4 400005 Ganeshmurthi Nagar Part No 1,3,Captain Prakash Pethe Marg,Colaba Congested Area",
+        "lat": "18.9180166",
+        "lng": "72.8251581"
+    },
+    {
+        "name": "A 5 400005 Shivshakti Nagar,Free Press Journal Road,Nariman Point,Colaba Congested Area",
+        "lat": "18.924775",
+        "lng": "72.8251447"
+    },
+    {
+        "name": "A 6 400005 Sunder Nagar,Indumati Sakrikar Marg,Near Colaba Market,Colaba Congested Area",
+        "lat": "18.9197182",
+        "lng": "72.8298531"
+    },
+    {
+        "name": "A 7 400005 Geeta Nagar,Dr Homi Bhabha Road,Near Navy Nagar,Colaba Congested Area",
+        "lat": "18.9072667",
+        "lng": "72.8094898"
+    },
+    {
+        "name": "A 8 400005 Ambedkar Nagar,Capt. Prakash Pethe Marg,Colaba Congested Area",
+        "lat": "18.9134577",
+        "lng": "72.8208046"
+    },
+    {
+        "name": "A 9 400005 Azad Nagari,Lala Nigam Road,Colaba Congested Area",
+        "lat": "18.9171013",
+        "lng": "72.8288065"
+    },
+    {
+        "name": "A 10 400005 Maker Tower,G.D.Somani Road,Colaba",
+        "lat": "18.9167238",
+        "lng": "72.8185535"
+    },
+    {
+        "name": "A 11 400005 Machchimar Nagar No.5,Capt. Prakash Pethe Marg,Colaba Congested Area",
+        "lat": "18.9174726",
+        "lng": "72.8248492"
+    },
+    {
+        "name": "A 12 400005 Darya Nagari,Near Jamshedji Bunder,Colaba Congested Area",
+        "lat": "18.9155998",
+        "lng": "72.8302691"
+    },
+    {
+        "name": "A 13 400005 Srpf Police Quarters,,Colaba",
+        "lat": "18.9103689",
+        "lng": "72.8197581"
+    },
+    {
+        "name": "A 14 400005 Chotu Terrace,Near Colab Fire Station,Colaba",
+        "lat": "18.9154742",
+        "lng": "72.82607949999999"
+    },
+    {
+        "name": "A 15 400020 Bell Heaven Building Servant Quarters,Near Bombay Hospital,New Marine Lines",
+        "lat": "18.9397534",
+        "lng": "72.8284255"
+    },
+    {
+        "name": "B 16 400003 Noble Tower,Zakeria Masjid Street,Near Hotel Hayat,Mandvi",
+        "lat": "18.9554088",
+        "lng": "72.8347697"
+    },
+    {
+        "name": "B 17 400003 Parveen Manzil,Dontaad Street,Near Zakeria Masjid,Pydhonie",
+        "lat": "18.9541012",
+        "lng": "72.83467209999999"
+    },
+    {
+        "name": "B 18 400003 Hazira Masion,Samuel Street,Opp. Hotel Al-Rehmaniya,Masjid Railway Station (W)",
+        "lat": "18.9518278",
+        "lng": "72.8382898"
+    },
+    {
+        "name": "B 19 400003 Parsi Chawl,Nagdevi Street,Opp. Crawford Market, Near Vip Bags Showroom,Crowford Market Congested Area",
+        "lat": "18.9473731",
+        "lng": "72.8337761"
+    },
+    {
+        "name": "B 20 400003 Vanjira Building,Memonwada Road,Near Minara Masjid,Dongri",
+        "lat": "18.9602105",
+        "lng": "72.8305489"
+    }
+]
